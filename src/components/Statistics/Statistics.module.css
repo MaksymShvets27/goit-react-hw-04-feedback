@@ -1,0 +1,7 @@
+.statisticsList {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 10px;
+  gap: 5px;
+}

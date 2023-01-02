@@ -1,0 +1,15 @@
+.buttonsSet {
+  padding: 20px;
+}
+.statisticsButton {
+  border: 1px solid #111;
+  border-radius: 5px;
+  background-color: white;
+}
+.statisticsButton:hover {
+  background-color: #111;
+  color: white;
+}
+.statisticsButton:not(:last-child) {
+  margin-right: 5px;
+}
