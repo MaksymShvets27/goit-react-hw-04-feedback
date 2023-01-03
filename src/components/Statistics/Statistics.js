@@ -17,11 +17,11 @@ const Statistics = ({ good, neutral, bad, total, positivePercentage }) => {
           </li>
           <li className={css.statisticsItem}>
             Bad:
-            {bad}{' '}
+            {bad}
           </li>
           <li className={css.statisticsItem}>
             Total:
-            {total()}{' '}
+            {total()}
           </li>
           <li className={css.statisticsItem}>
             Positive feedback:
